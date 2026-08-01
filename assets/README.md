@@ -1,3 +1,3 @@
-# Assets
-
-This folder contains images and graphics used in the project documentation.
+<p align="center">
+  <img src="assetbanner.png" alt="SIEM Detection Rule Development Banner" width="100%">
+</p>
