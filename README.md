@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="SIEM Detection Rule Development Banner" width="100%">
+</p>
 # SIEM Detection Rule Development using Elastic (ELK) Stack
 
 ## Overview
